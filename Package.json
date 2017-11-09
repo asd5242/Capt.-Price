@@ -1,0 +1,14 @@
+{
+  "name": "captprice",
+  "version": "1.0.0",
+  "description": "A bot created with discord.js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asd5242",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
